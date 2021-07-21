@@ -4,6 +4,9 @@
   --margin_bottom: 30px;
 
   --color_blue: #2f80ed;
+  --color_text: #000;
+  --color_background_light: #f2f2f2;
+  --color_background_dark: #1f1f1f;
 }
 
 .page {
@@ -24,6 +27,8 @@
   flex-direction: column;
   justify-content: center;
   position: relative;
+  z-index: -3;
+  background-color: var(--color_background_light);
 }
 
 .header__logo {
@@ -44,6 +49,9 @@
   font-weight: 600;
   line-height: 1;
   max-width: 730px;
+}
+
+.header__title_margin_left {
   margin-left: var(--margin_left);
 }
 
@@ -69,7 +77,7 @@
   position: absolute;
   bottom: 0;
   right: 0;
-  z-index: 1;
+  z-index: -1;
 }
 
 .header__square-pic {
@@ -79,6 +87,7 @@
   position: absolute;
   top: 64px;
   right: 0;
+  z-index: -2;
 }
 
 /* content */
