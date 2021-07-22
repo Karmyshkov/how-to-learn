@@ -47,6 +47,14 @@
   line-height: 1.12;
 }
 
+.main-animation {
+  transition: opacity 0.3s;
+}
+
+.main-animation:hover {
+  opacity: 0.7;
+}
+
 /* header */
 
 .header {
@@ -93,11 +101,6 @@
 
 .header__link {
   color: var(--color_blue);
-  transition: opacity 0.3s;
-}
-
-.header__link:hover {
-  opacity: 0.7;
 }
 
 .header__main-illustration {
