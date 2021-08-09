@@ -7,4 +7,5 @@
   justify-content: center;
   position: relative;
   background-color: var(--color_light);
+  overflow: hidden;
 }
