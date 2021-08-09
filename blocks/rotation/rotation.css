@@ -1,5 +1,5 @@
 .rotation {
-  animation: rotation 20s infinite;
+  animation: rotation 20s ease-in-out infinite;
 }
 
 @keyframes rotation {
