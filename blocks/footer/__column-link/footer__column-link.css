@@ -4,6 +4,8 @@
   line-height: 30px;
   text-decoration: none;
   display: inline-block;
+  -webkit-transition: opacity 0.3s;
+  -o-transition: opacity 0.3s;
   transition: opacity 0.3s;
 }
 

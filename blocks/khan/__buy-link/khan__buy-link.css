@@ -4,6 +4,8 @@
   line-height: 42px;
   font-weight: 400;
   text-decoration: none;
+  -webkit-transition: 0.3s opacity;
+  -o-transition: 0.3s opacity;
   transition: 0.3s opacity;
 }
 
