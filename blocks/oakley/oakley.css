@@ -1,0 +1,8 @@
+.oakley {
+  background-color: var(--color_light);
+  padding-top: 160px;
+  position: relative;
+  top: -60px;
+  z-index: -1;
+  margin-bottom: -60px;
+}
