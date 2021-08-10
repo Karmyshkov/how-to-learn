@@ -2,7 +2,7 @@
   padding: 90px 0;
   overflow: hidden;
   position: relative;
-  background-color: var(--color_dark);
+  background-color: var(--bg_color_dark);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;

@@ -1,6 +1,6 @@
 .feynman__link {
   font-size: 36px;
-  color: var(--color_blue);
+  color: var(--text_color_link);
   line-height: 51px;
   text-decoration: none;
   position: absolute;

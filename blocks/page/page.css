@@ -3,6 +3,6 @@
   max-width: 1600px;
   margin: 0 auto;
   font-family: 'Helvetica Neue', Arial, sans-serif;
-  color: var(--color_text);
+  color: var(--text_color_primary);
   font-weight: 400;
 }

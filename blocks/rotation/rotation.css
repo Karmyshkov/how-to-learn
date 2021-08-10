@@ -1,6 +1,6 @@
 .rotation {
-  -webkit-animation: rotation 20s ease-in-out infinite;
-  animation: rotation 20s ease-in-out infinite;
+  -webkit-animation: rotation 20s linear infinite;
+  animation: rotation 20s linear infinite;
 }
 
 @-webkit-keyframes rotation {

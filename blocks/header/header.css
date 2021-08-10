@@ -13,6 +13,6 @@
   -ms-flex-pack: center;
   justify-content: center;
   position: relative;
-  background-color: var(--color_light);
+  background-color: var(--bg_color_light);
   overflow: hidden;
 }

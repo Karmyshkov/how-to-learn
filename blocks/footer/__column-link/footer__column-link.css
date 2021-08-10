@@ -1,6 +1,6 @@
 .footer__column-link {
   font-size: 18px;
-  color: var(--color_light);
+  color: var(--text_color_secondory);
   line-height: 30px;
   text-decoration: none;
   display: inline-block;

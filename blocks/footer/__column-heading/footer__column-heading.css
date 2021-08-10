@@ -1,6 +1,6 @@
 .footer__column-heading {
   font-size: 18px;
-  color: var(--color_light);
+  color: var(--text_color_secondory);
   font-weight: 600;
   line-height: 30px;
   margin: 0 0 20px 0;
